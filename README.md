@@ -3,9 +3,4 @@ It is a PowerPoint plugin for our One-Stop Intelligent Class Assistant App. The 
 
 Plugin can obtain courseware timestamps, synchronize multiple clients, and upload files to the remote server.
 
-The user interface is as follows:
-
-![](D:\eclipse-workspace\1170801121.github.io\assets\img\Teacher intelligent terminal control interface.png)
-<center>
-<img src="{{site.baseurl}}/assets/img/plugin.png "  /><br>
-</center>
+More details about this app can be found in my personal website: https://1170801121.github.io/
