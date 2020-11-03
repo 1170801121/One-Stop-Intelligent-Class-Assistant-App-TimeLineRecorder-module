@@ -6,4 +6,6 @@ Plugin can obtain courseware timestamps, synchronize multiple clients, and uploa
 The user interface is as follows:
 
 ![](D:\eclipse-workspace\1170801121.github.io\assets\img\Teacher intelligent terminal control interface.png)
-
+<center>
+<img src="{{site.baseurl}}/assets/img/plugin.png "  /><br>
+</center>
